@@ -142,7 +142,7 @@ Below we walk you through the onboarding process.
 
 {{<img src="images/quiz-1.png" title="Quiz 1" alt="Quiz 1">}}
 
-You will see that **True** is the correct answer. If you click False, you will receive an explanation on why the answer is wrong. 
+You will see that **True** is the correct answer. If you click **False**, you will receive an explanation on why the answer is wrong. 
 
 {{<img src="images/tick.png" title="Tick" alt="Tick">}}
 
@@ -150,7 +150,7 @@ You will see that **True** is the correct answer. If you click False, you will r
 
 {{<img src="images/quiz-2.png" title="Quiz 2" alt="Quiz 2">}}
 
-You will see that **True** is the correct answer. If you click False, you will receive an explanation on why the answer is wrong. 
+You will see that **True** is the correct answer. If you click **False**, you will receive an explanation on why the answer is wrong. 
 
 {{<img src="images/tick.png" title="Tick" alt="Tick">}}
 
